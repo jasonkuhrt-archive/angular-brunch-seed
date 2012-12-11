@@ -9,7 +9,7 @@
 
     ...and open your browser? Okay:
 
-    brunch new ./ --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && -a Google\ Chrome 'http://localhost:9898' && make
+    brunch new ./ --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && open -a Google\ Chrome 'http://localhost:9898' && make
 
 #### Work on this seed quickstart
 
