@@ -1,6 +1,10 @@
-#### Quickstart
+#### Copypaste Quickstart (refresh browser after tab opens)
 
-     git clone ... cd ... npm install && make
+     git clone git://github.com/jasonkuhrt/angular-brunch-seed.git && cd angular-brunch-seed && npm install && open -a Google\ Chrome "http://localhost:9898" && make
+
+#### Copypaste Quickstart (without opening Google Chrome)
+
+     git clone git://github.com/jasonkuhrt/angular-brunch-seed.git && cd angular-brunch-seed && npm install && make
 
 
 
