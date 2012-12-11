@@ -1,10 +1,13 @@
-#### Copypaste Quickstart (refresh browser after tab opens)
+#### Quickstarts
 
-     git clone git://github.com/jasonkuhrt/angular-brunch-seed.git && cd angular-brunch-seed && npm install && open -a Google\ Chrome "http://localhost:9898" && make
+      Work on your new website:
+      brunch new --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && make
 
-#### Copypaste Quickstart (without opening Google Chrome)
+      ...and open your browser? Okay:
+      brunch new --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && -a Google\ Chrome 'http://localhost:9898' && make
 
-     git clone git://github.com/jasonkuhrt/angular-brunch-seed.git && cd angular-brunch-seed && npm install && make
+      Work on this seed:
+      git clone git://github.com/jasonkuhrt/angular-brunch-seed.git && cd angular-brunch-seed && npm install
 
 
 
