@@ -1,3 +1,7 @@
+# Seed app for angularjs + brunch
+
+--------------------------------
+
 #### Quickstarts
 
   ! Create your project folder and `cd` into it first
@@ -17,7 +21,7 @@
 
 
 
-## Seed app for angularjs + brunch
+--------------------------------
 
 
 
@@ -28,11 +32,17 @@
 
 
 
+--------------------------------
+
+
+
 #### Tools
-- Makefile, wrapping brunch where needed
+
+###### Makefile, wrapping brunch where needed
 
     make          # run sever for development
     make tests    # run tests
 
-- Stock jshint
-- testacular for angular testing
+###### Stock jshint
+
+###### testacular for angular testing
