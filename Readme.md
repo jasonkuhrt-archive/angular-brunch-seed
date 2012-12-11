@@ -4,7 +4,7 @@
 
     Work on your new website:
 
-    brunch new ./ --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && cd my-app && make
+    brunch new ./ --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && make
 
 
     ...and open your browser? Okay:
@@ -33,5 +33,6 @@
 
     make          # run sever for development
     make tests    # run tests
+
 - Stock jshint
 - testacular for angular testing
