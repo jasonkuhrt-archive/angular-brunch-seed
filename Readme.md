@@ -1,15 +1,19 @@
 #### Quickstarts
 
-      Create your project folder and `cd` into it, first!
+  ! Create your project folder and `cd` into it first
 
-      Work on your new website:
-      brunch new ./ --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && cd my-app && make
+    Work on your new website:
 
-      ...and open your browser? Okay:
-      brunch new ./ --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && -a Google\ Chrome 'http://localhost:9898' && make
+    brunch new ./ --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && cd my-app && make
 
-      Work on this seed:
-      git clone git://github.com/jasonkuhrt/angular-brunch-seed.git && cd angular-brunch-seed && npm install
+
+    ...and open your browser? Okay:
+
+    brunch new ./ --skeleton https://github.com/jasonkuhrt/angular-brunch-seed && -a Google\ Chrome 'http://localhost:9898' && make
+
+#### Work on this seed quickstart
+
+    git clone git://github.com/jasonkuhrt/angular-brunch-seed.git && cd angular-brunch-seed && npm install
 
 
 
